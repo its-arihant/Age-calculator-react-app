@@ -1,2 +1,2 @@
-# Age_Calculator_MERN_ETHNUS
+# Age_Calculator
 https://agecalculator-mern-ethnus.vercel.app/
